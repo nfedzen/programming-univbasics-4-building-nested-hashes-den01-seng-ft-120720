@@ -4,7 +4,7 @@ def base_hash
   new_hash = {
     :railroads => {}
   }
-
+  new_hash
 end
 
 def monopoly_with_seconld_tier
